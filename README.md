@@ -9,3 +9,4 @@ This project aims to enhance the drug discovery process by using ChEMBL database
 - **Machine Learning Models**: Implements Graph Neural Networks (GNNs) for predicting drug-target interactions and potential side effects.
 - **Generative Models**: Uses generative AI (e.g., Variational Autoencoders) to generate new molecules with desired properties.
 - **Interactive Dashboard**: Provides a user-friendly interface built with Streamlit or Dash for real-time visualization of the results.
+![interface](https://github.com/user-attachments/assets/dc219d10-4cb9-4ca1-8942-1921032f8432)
